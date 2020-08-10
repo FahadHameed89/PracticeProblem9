@@ -14,16 +14,16 @@ namespace PracticeProblem9
       StringBuilder str_build = new StringBuilder();    // build a new stringbuilder method
       Random random = new Random();                     // Sets up a new rng generator
 
-      char letter;                                      // set initial character
+      char password;                                      // set initial character
 
       for (int i = 0; i < length; i++)                  
       {
         double flt = random.NextDouble();                       // Calls a random float that is between 0.0 and 1.0
         int shift = Convert.ToInt32(Math.Floor(25 * flt));       // Multiply the float by 25 and take the floor of the result, giving in integer between 1 and 25. 
-        letter = Convert.ToChar(shift + 65);                    // Add shift integer to 65, which is the ASCII value of the character A. This will give us an integer between 65 and 90, which are the ASCII values for capital letters. 
-        str_build.Append(letter);  
+        password = Convert.ToChar(shift + 65);                    // Add shift integer to 65, which is the ASCII value of the character A. This will give us an integer between 65 and 90, which are the ASCII values for capital letters. 
+        str_build.Append(password);  
       }  
-      Console.WriteLine(str_build.ToString());
+      Console.WriteLine($"Your 5 letter password is {str_build.ToString()}");
       Console.ReadLine();
     }
 }}
