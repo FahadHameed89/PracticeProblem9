@@ -1,0 +1,13 @@
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\bin\Debug\netcoreapp3.1\PracticeProblem9.exe
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\bin\Debug\netcoreapp3.1\PracticeProblem9.deps.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\bin\Debug\netcoreapp3.1\PracticeProblem9.runtimeconfig.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\bin\Debug\netcoreapp3.1\PracticeProblem9.runtimeconfig.dev.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\bin\Debug\netcoreapp3.1\PracticeProblem9.dll
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\bin\Debug\netcoreapp3.1\PracticeProblem9.pdb
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\obj\Debug\netcoreapp3.1\PracticeProblem9.csprojAssemblyReference.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\obj\Debug\netcoreapp3.1\PracticeProblem9.AssemblyInfoInputs.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\obj\Debug\netcoreapp3.1\PracticeProblem9.AssemblyInfo.cs
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\obj\Debug\netcoreapp3.1\PracticeProblem9.csproj.CoreCompileInputs.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\obj\Debug\netcoreapp3.1\PracticeProblem9.dll
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\obj\Debug\netcoreapp3.1\PracticeProblem9.pdb
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem9\obj\Debug\netcoreapp3.1\PracticeProblem9.genruntimeconfig.cache
